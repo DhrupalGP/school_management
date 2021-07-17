@@ -1,5 +1,5 @@
 # school_management
-i i am creating this projects for learning basic fundamental of Django Learning.
+i am creating this projects for learning basic fundamental of Django Learning.
 
 in this projects i learned bellow things
 1.template rendering
